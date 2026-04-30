@@ -1,3 +1,6 @@
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2a977f5f-b25a-467d-a189-c67131c0d79a" />
+<img width="813" height="599" alt="image" src="https://github.com/user-attachments/assets/259522aa-c5cd-4d87-a3f4-e77e021fb9bb" />
+<img width="912" height="566" alt="image" src="https://github.com/user-attachments/assets/dad2d554-8ec0-478c-adb9-a181c7affbb8" />
 
 This project is a dynamic 2D ecosystem simulation developed in Unity using C#. Its main goal is not just to create an entertaining game, but to model complex behavior patterns in a limited-resource environment. Three types of populations interact in a closed space: carnivores, herbivores, and omnivores. Each has unique characteristics for survival, speed, and energy consumption.
 
